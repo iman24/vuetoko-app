@@ -1,4 +1,4 @@
-# vue3-composition-api
+# vue 3 app simple list product + cart
 
 ## Project setup
 ```
